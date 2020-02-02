@@ -1,0 +1,108 @@
+1.
+(pad 0)
+1
+
+(pad 1)
+1
+
+(pad 2)
+1
+
+(pad 3)
+2
+
+(pad 4)
+2
+
+(pad 5)
+3
+
+(pad 6)
+4
+
+(pad 7)
+5
+
+(pad 8)
+7
+
+(pad 9)
+9
+
+(pad 10)
+12
+
+(pad 11)
+16
+
+(pad 12)
+21
+
+If N is larger, the program takes infinite time.
+
+
+
+2.
+(sums 0)
+0
+
+(sums 1)
+0
+
+(sums 2)
+0
+
+(sums 3)
+1
+
+(sums 4)
+1
+
+(sums 5)
+2
+
+(sums 6)
+3
+
+(sums 7)
+4
+
+(sums 8)
+6
+
+(sums 9)
+8
+
+(sums 10)
+11
+
+(sums 11)
+15
+
+The values from PAD is always greater than SUMS by 1.
+
+
+3.
+
+(ANON ’42)
+?
+
+(ANON ’FOO)
+?
+
+(ANON ’(((L E) F) T))
+(((? ?) ?) ?)
+
+(ANON ’(5 FOO 3.1 -0.2))
+(? ? ? ?)
+
+(ANON ’(1 (FOO 3.1) -0.2))
+(? (? ?) ?)
+
+(ANON ’(((1 2) (FOO 3.1)) (BAR -0.2)))
+(((? ?) (? ?)) (? ?))
+
+(ANON ’(R (I (G (H T)))))
+(? (? (? (? ?))))
+
+

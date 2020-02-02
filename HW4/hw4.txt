@@ -1,0 +1,15 @@
+The first graph (graph1.txt) is not satisfiable using 3 colors. 
+It is satisfiable with 4 colors. 
+
+So we should give at least 4 colors to this graph. 
+
+A solution is given as follows:
+Node1: Red
+Node2: Green
+Node3: Red
+Node4: Blue
+Node5: Yellow
+Node6: Green
+Node7: Blue
+
+The second graph (graph2.txt) is satisfiable using 8 or more colors.
